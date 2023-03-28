@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "Obj_upload_project",
+      "path": "objects/Obj_upload_project/Obj_upload_project.yy"
+    },
+    {
+      "name": "Obj_dowload",
+      "path": "objects/Obj_dowload/Obj_dowload.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

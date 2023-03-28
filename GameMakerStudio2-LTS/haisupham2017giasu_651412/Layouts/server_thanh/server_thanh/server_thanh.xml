@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="858" y="135" width="1020" height="768" id="19" title="server_thanh - GameMaker-LTS" windowState="Normal">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[426, 3902]" workspace_scale="1">
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_config_cong_thuc_qwr\scrrr_config_cong_thuc_qwr.gml" resource="scrrr_config_cong_thuc_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="340.80002dpi_px" top="1203.2001dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_creat_uuid_danhtinh_ini\scr_creat_uuid_danhtinh_ini.gml" resource="scr_creat_uuid_danhtinh_ini" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="340.80002dpi_px" top="112dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="open_sprite_editor">
+					<SpriteEditor SpriteEditor_Id="spr_checkma">
+						<WorkspaceChain left="340.80002dpi_px" top="1664.8dpi_px" />
+					</SpriteEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="Objrr_trichctoff_qwr" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="573.60004dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="404dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\Objrr_trichctoff_qwr\Other_63.gml" resource="Objrr_trichctoff_qwr" subResource="7_63" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_check_ma" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="2322.4001dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="2" isActive="False" w="900dpi_px" h="404dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_check_ma\Mouse_7.gml" resource="obj_check_ma" subResource="6_7" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_check_ma\Other_62.gml" resource="obj_check_ma" subResource="7_62" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_check_ma\Other_63.gml" resource="obj_check_ma" subResource="7_63" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_nhapchuot\Mouse_56.gml" resource="obj_nhapchuot" subResource="6_56" overridden_title="False" view_readonly="True" />
+							<Script column="0" file="${project_dir}\objects\obj_check_ma\Create_0.gml" resource="obj_check_ma" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_nhantin" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="2952dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="404dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_nhantin\Other_63.gml" resource="obj_nhantin" subResource="7_63" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eRight" restore_size="46.088882dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="6f7d759e-894a-4d73-a36e-c9c65aee2bc6">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="127.50026dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="c3c45d73-99c3-477b-bb5c-c69dcc03fef3">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="d886d426-6832-4f03-a63e-b55b99ba6e79">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="020d449d-af56-4656-8afa-e40934d0febb">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="f07dd20c-8731-491c-a9e7-cdfaaedb80ca">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="231f322e-cb18-4f52-a46b-d529886c2171">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="cb9d9a19-acd7-434d-8e6e-2ad5b08eea40">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

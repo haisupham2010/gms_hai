@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="0" y="29" width="1920" height="1051" id="19" title="hilo2023 - GameMaker-LTS" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="False" chain="False" title="r_choi" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="r_choi">
+						<RoomEditArea>
+							<PanArea zoom="1" pan="[0, 0]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="caidat" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[932, 10943]" workspace_scale="1">
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="496dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_constructor_bao_conA\scr_constructor_bao_conA.gml" resource="scr_constructor_bao_conA" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="412dpi_px" top="498dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="580dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_constructor_control\scr_constructor_control.gml" resource="scr_constructor_control" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="412dpi_px" top="1050dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="580dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_constructor_hieuung\scr_constructor_hieuung.gml" resource="scr_constructor_hieuung" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="412dpi_px" top="1686dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_giua" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="412dpi_px" top="2322dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_giua\Alarm_0.gml" resource="obj_giua" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_loa" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="713.60004dpi_px" top="5107.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="684.8dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_loa\Create_0.gml" resource="obj_loa" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_hieuung" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="745.60004dpi_px" top="8119.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="571.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_hieuung\Create_0.gml" resource="obj_hieuung" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_control" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="745.60004dpi_px" top="7488dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="900dpi_px" h="571.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_control\Create_0.gml" resource="obj_control" subResource="0_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_control\Step_0.gml" resource="obj_control" subResource="3_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_trai" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="412dpi_px" top="4237.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_trai\Alarm_0.gml" resource="obj_trai" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_ne" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="412dpi_px" top="2960.4001dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_ne\Step_0.gml" resource="obj_ne" subResource="3_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_phai" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="412dpi_px" top="3598.8dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="900dpi_px" h="578.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_ne\Step_0.gml" resource="obj_ne" subResource="3_0" overridden_title="False" view_readonly="True" />
+							<Script column="0" file="${project_dir}\objects\obj_phai\Alarm_0.gml" resource="obj_phai" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_keo_obj" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="745.60004dpi_px" top="6743.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="784.8dpi_px" h="570.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_keo_obj\Mouse_56.gml" resource="obj_keo_obj" subResource="6_56" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="572.8dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_constructor_mo\scr_constructor_mo.gml" resource="scr_constructor_mo" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="745.60004dpi_px" top="6114.4dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="572.8dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_contructor_mob\scr_contructor_mob.gml" resource="scr_contructor_mob" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="745.60004dpi_px" top="8750.4dpi_px" />
+					</DocumentWindow>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="315dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[410,589]" layout_id="dock_tab_1" layout_guid="f3143246-491c-404e-a859-89fb11286187">
+				<Module Command="open_inspector">
+					<Inspector resName="scr_contructor_mob">
+						<Window left="366dpi_px" right="" top="157dpi_px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="296.87393dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="fd17cde6-94a8-4db3-ae56-eb80500c23b3">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="185.51128dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="0471d7e3-1a34-4626-9160-037c34514f1f">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="4f2050a5-525c-49fe-9dc6-104e832d0b4a">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="1c125fef-d44c-4749-a27f-805a055213d2">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="5ac267f5-8ebb-4e16-924c-004590279c4a">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="8c357ac8-9e09-4077-8ba7-7a56179c211a">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="4082d321-138b-4e73-869e-24fc9732ee91">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+			<RoomEditor>
+				<Layers left="340dpi_px" right="" top="" bottom="270dpi_px" width="320dpi_px" height="200dpi_px" flags="CloseButton, MinimizeButton, ResizeButton" title="Layers - r_choi" localise_title="RoomEditor_Layers" dock_type="eLeft" dock_tab_index="0" dock_list_index="0" dock_proportion="0.82068115" dock_tab_name="Inspector" dock_tab_localise_name="Inspector_WindowTitle" dock_tab_id="dock_tab_1" dock_tab_guid="f3143246-491c-404e-a859-89fb11286187" desktop="19" />
+			</RoomEditor>
+		</YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+	</Modules>
+</Project>

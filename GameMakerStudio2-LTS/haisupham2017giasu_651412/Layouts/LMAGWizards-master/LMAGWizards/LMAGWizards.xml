@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="-281" y="355" width="1024" height="768" id="19" title="LMAGWizards - GameMaker-LTS" windowState="Normal">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[1544, 290]" workspace_scale="1">
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="388dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\shaders\shd_gbuff_main\shd_gbuff_main.vsh" resource="shd_gbuff_main" overridden_title="False" view_readonly="False" />
+						<Script column="0" file="${project_dir}\shaders\shd_gbuff_main\shd_gbuff_main.fsh" resource="shd_gbuff_main" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="604.8dpi_px" top="112dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="388dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\shaders\shd_deferred\shd_deferred.vsh" resource="shd_deferred" overridden_title="False" view_readonly="False" />
+						<Script column="0" file="${project_dir}\shaders\shd_deferred\shd_deferred.fsh" resource="shd_deferred" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1222.4dpi_px" top="228dpi_px" />
+					</DocumentWindow>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="eeacf121-5d0b-402d-b0b6-2b7cebf728dc">
+				<Module Command="open_inspector">
+					<Inspector>
+						<Window left="0px" right="" top="0px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="305dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="a4824784-d7cd-41d8-b8d5-c0ba5fcaefb5">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="251.64dpi_px" active_tab="4">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="9a37c009-7dae-4e5c-a1f0-75344c980142">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="25de8715-0498-4f58-a430-2f51985232e4">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="689c1d1c-957e-4907-bf12-ea9c5a968dd2">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="ae8f4910-513b-43db-8e48-5a6457fb85eb">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="616ec3e5-8698-4c49-848d-2a66be483cb5">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="d7d9d868-9c77-4036-8052-130aa8ad4359">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

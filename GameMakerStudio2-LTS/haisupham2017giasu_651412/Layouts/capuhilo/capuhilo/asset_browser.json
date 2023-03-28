@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "obj_keo_obj",
+      "path": "objects/obj_keo_obj/obj_keo_obj.yy"
+    },
+    {
+      "name": "snd_nhac",
+      "path": "sounds/snd_nhac/snd_nhac.yy"
+    },
+    {
+      "name": "scrrr_hotngaunhien_qwr",
+      "path": "scripts/scrrr_hotngaunhien_qwr/scrrr_hotngaunhien_qwr.yy"
+    },
+    {
+      "name": "obj_baC",
+      "path": "objects/obj_baC/obj_baC.yy"
+    },
+    {
+      "name": "rchoi",
+      "path": "rooms/rchoi/rchoi.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

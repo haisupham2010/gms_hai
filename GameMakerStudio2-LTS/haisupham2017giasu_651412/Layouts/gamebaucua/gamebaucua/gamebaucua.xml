@@ -1,0 +1,274 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="0" y="29" width="1920" height="1051" id="19" title="gamebaucua - GameMaker-LTS" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[2703, 20910]" workspace_scale="1">
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="600dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_creat_uuid_danhtinh_ini\scr_creat_uuid_danhtinh_ini.gml" resource="scr_creat_uuid_danhtinh_ini" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1396.8dpi_px" top="2281.6dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="600dpi_px">
+						<Script column="0" file="${project_dir}\scripts\InstanceID\InstanceID.gml" resource="InstanceID" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1396.8dpi_px" top="2937.6dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="600dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_request_http_sv\scr_request_http_sv.gml" resource="scr_request_http_sv" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1752dpi_px" top="4365.6dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="636dpi_px" h="281.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\HandlePacket\HandlePacket.gml" resource="HandlePacket" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1396.8dpi_px" top="3593.6dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="636dpi_px" h="281.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_lenhcai_mot\scr_lenhcai_mot.gml" resource="scr_lenhcai_mot" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1396.8dpi_px" top="3931.2dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px">
+						<Script column="0" file="${project_dir}\notes\device\device.txt" resource="device" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="6888dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="679.2dpi_px" h="398.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_congct_qwr\scrrr_congct_qwr.gml" resource="scrrr_congct_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="9412.001dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\random_ct1\random_ct1.gml" resource="random_ct1" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="8777.601dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="679.2dpi_px" h="398.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\random_ct2\random_ct2.gml" resource="random_ct2" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="9866.401dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="578.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\random_ct3\random_ct3.gml" resource="random_ct3" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2043.2001dpi_px" top="6285.6dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_sanxuat_kq\scr_sanxuat_kq.gml" resource="scr_sanxuat_kq" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="10320.801dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_xoc_qwr\scrrr_xoc_qwr.gml" resource="scrrr_xoc_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="10782.401dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_ct2_xuat_kq\scr_ct2_xuat_kq.gml" resource="scr_ct2_xuat_kq" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="11705.601dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="679.2dpi_px" h="398.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_ct3_xuat_kq\scr_ct3_xuat_kq.gml" resource="scr_ct3_xuat_kq" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="12167.202dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="546.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\congthuc_1\congthuc_1.gml" resource="congthuc_1" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="14459.202dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="385.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_netongquat_qwr\scrrr_netongquat_qwr.gml" resource="scrrr_netongquat_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="15061.602dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="385.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_nehaimat_qwr\scrrr_nehaimat_qwr.gml" resource="scrrr_nehaimat_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="15503.202dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="385.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\congthuc_2\congthuc_2.gml" resource="congthuc_2" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="15944.802dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="554.4dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_change_dulieu\scr_change_dulieu.gml" resource="scr_change_dulieu" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="13848.802dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="586.4dpi_px" h="281.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\congthuc_3\congthuc_3.gml" resource="congthuc_3" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="16386.404dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_ct1_xuat_kq\scr_ct1_xuat_kq.gml" resource="scr_ct1_xuat_kq" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="1939.2001dpi_px" top="11244.001dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="405.6dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scr_khien_end\scr_khien_end.gml" resource="scr_khien_end" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2332dpi_px" top="16724.002dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_auto_cr_server_receive" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1396.8dpi_px" top="1622.4dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_auto_cr_server_receive\Other_68.gml" resource="obj_auto_cr_server_receive" subResource="7_68" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objr_active_server_q2_cr_room" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1396.8dpi_px" top="995.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objr_active_server_q2_cr_room\Create_0.gml" resource="objr_active_server_q2_cr_room" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objr_sever_q1_cr_room" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1752dpi_px" top="5021.6dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objr_sever_q1_cr_room\Create_0.gml" resource="objr_sever_q1_cr_room" subResource="0_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\objr_sever_q1_cr_room\Draw_64.gml" resource="objr_sever_q1_cr_room" subResource="8_64" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\objr_sever_q1_cr_room\Other_62.gml" resource="objr_sever_q1_cr_room" subResource="7_62" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_caireng" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1939.2001dpi_px" top="7504dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="576.8dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_caireng\Mouse_7.gml" resource="obj_caireng" subResource="6_7" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\obj_caireng\Create_0.gml" resource="obj_caireng" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_bien_control" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1752dpi_px" top="5680.8003dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="576.8dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_bien_control\Create_0.gml" resource="obj_bien_control" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="Object1" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1396.8dpi_px" top="336dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="7" isActive="False" w="900dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\Object1\Step_0.gml" resource="Object1" subResource="3_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Alarm_0.gml" resource="Object1" subResource="2_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Alarm_1.gml" resource="Object1" subResource="2_1" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Alarm_2.gml" resource="Object1" subResource="2_2" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Alarm_3.gml" resource="Object1" subResource="2_3" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Alarm_4.gml" resource="Object1" subResource="2_4" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Create_0.gml" resource="Object1" subResource="0_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\Object1\Mouse_7.gml" resource="Object1" subResource="6_7" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_negiua" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="2332dpi_px" top="13219.202dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="409.6dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_negiua\Alarm_0.gml" resource="obj_negiua" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_nephai" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1939.2001dpi_px" top="8140.8003dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="1" isActive="False" w="900dpi_px" h="576.8dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_nechung\Step_0.gml" resource="obj_nechung" subResource="3_0" overridden_title="False" view_readonly="True" />
+							<Script column="0" file="${project_dir}\objects\obj_nephai\Alarm_0.gml" resource="obj_nephai" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="obj_netrai" eventsOpen="true" parentOpen="true" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="1939.2001dpi_px" top="12621.602dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="550.4dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\obj_netrai\Alarm_0.gml" resource="obj_netrai" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="76.799995dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="c86ed1fc-1aa0-411f-afc9-8aaa0074b3ea">
+				<Module Command="open_inspector">
+					<Inspector resName="obj_netrai">
+						<Window left="0px" right="" top="0px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="180.70587dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="83a010ca-ad59-49f2-8734-e5d1ba4cd234">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="251.64dpi_px" active_tab="1">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="c6f3843c-be35-4a97-9856-5ee864f9f65a">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="0291bbce-b60e-4cf3-9956-0dc925a46ba0">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="92032ead-bf23-469e-b46c-cc8bcd041ccc">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="6a21d976-fa23-463a-9578-0c51c3b4651f">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="a59ebec6-f22d-425a-81dd-7016bb303bed">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="3781f24e-f742-4f5f-887e-b75381ebfa14">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

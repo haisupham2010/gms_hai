@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="0" y="29" width="1920" height="1051" id="19" title="capuhilo - GameMaker-LTS" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[3050, 2068]" workspace_scale="1">
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="552.8dpi_px" h="600dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrrr_hotngaunhien_qwr\scrrr_hotngaunhien_qwr.gml" resource="scrrr_hotngaunhien_qwr" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="2214.4001dpi_px" top="809.60004dpi_px" />
+					</DocumentWindow>
+				</Module>
+			</Workspace>
+			<Workspace active="False" chain="False" title="rchoi" localise_title="" workspace_offset="[0, 0]" workspace_scale="1">
+				<Module Command="open_room_editor" WorkspaceOwner="true">
+					<Room id="rchoi">
+						<RoomEditArea>
+							<PanArea zoom="0.5650435" pan="[-44.757126, -176.867]" />
+							<Properties />
+							<Selected>
+								<Layer GUID="loa" />
+							</Selected>
+						</RoomEditArea>
+					</Room>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="152.47057dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[271,728]" layout_id="dock_tab_1" layout_guid="1dc3e137-8d1f-48af-8fc1-e0cb501c054f">
+				<Module Command="open_inspector">
+					<Inspector resName="obj_keo_obj">
+						<Window left="0px" right="" top="0px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="368.63998dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="827d76d9-4ff7-4542-83c9-e226d6f6a15b">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="234.71211dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="5d276e33-f5e4-4bf6-a76d-a82694dca722">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="ce8e2827-e5ee-408c-9d7f-1dc194e16a0e">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="fcf71226-3fe5-407f-bca0-0641e3a9b792">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="5b135392-1a77-4937-8f9f-57c49d57c9ed">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="4df07e71-cc2e-4087-aeb3-83f7dd95f6a5">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="097abadd-0828-4a9a-aa8e-4a5e07ddefe2">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+	<Modules>
+		<YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+			<RoomEditor>
+				<Layers left="340dpi_px" right="" top="" bottom="270dpi_px" width="320dpi_px" height="200dpi_px" flags="CloseButton, MinimizeButton, ResizeButton" title="Layers - rchoi" localise_title="RoomEditor_Layers" dock_type="eLeft" dock_tab_index="0" dock_list_index="0" dock_proportion="0.5433306" dock_tab_name="Inspector" dock_tab_localise_name="Inspector_WindowTitle" dock_tab_id="dock_tab_1" dock_tab_guid="1dc3e137-8d1f-48af-8fc1-e0cb501c054f" desktop="19" />
+			</RoomEditor>
+		</YoYoStudio.Plugins.RoomEditor.RoomEditorModule>
+	</Modules>
+</Project>

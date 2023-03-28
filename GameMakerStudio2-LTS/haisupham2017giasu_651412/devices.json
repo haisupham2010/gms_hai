@@ -1,0 +1,38 @@
+{
+    "android": {
+        "User": {
+            
+        },
+        "Auto": {
+            "SM_A705F": {
+                "displayname": "SM_A705F",
+                "hostname": "R58M55XNGRJ"
+            },
+            "SM_A115F": {
+                "displayname": "SM_A115F",
+                "hostname": "R9JN40P86PJ"
+            }
+        }
+    },
+    "html5": {
+        
+    },
+    "ios": {
+        
+    },
+    "linux": {
+        
+    },
+    "mac": {
+        
+    },
+    "tvos": {
+        
+    },
+    "windows": {
+        
+    },
+    "operagx": {
+        
+    }
+}

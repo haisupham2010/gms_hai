@@ -1,0 +1,15 @@
+{
+    "machine.Object Editor.defaultcomment": "/// @description Insert description here\n// You can write your code in this editor\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "machine.Script Editor.defaultcomment": "// Script assets have changed for v2.3.0 see\n// https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information",
+    "machine.Platform Settings.Android.Paths.sdk_location": "C:\\Users\\chuan\\AppData\\Local\\Android\\Sdk",
+    "machine.Platform Settings.Android.Paths.ndk_location": "",
+    "machine.Platform Settings.Android.Paths.jdk_location": "C:\\Program Files\\Java\\jdk-11.0.13",
+    "machine.Platform Settings.Android.Keystore.filename": "C:\\Users\\chuan\\Desktop\\LTS_tinhpham.keystore",
+    "machine.Platform Settings.Android.Keystore.keystore_password": "ZkpfR1dNUlZF",
+    "machine.Platform Settings.Android.Keystore.keystore_alias_password": "ZkpfR1dNUlZF",
+    "cloud.Marketplace.CertificateFile": "C:\\Users\\chuan\\OneDrive\\Tài liệu\\dongbo\\acc_gamemaker\\game_1\\GameMakerCertificate.pem",
+    "cloud.Marketplace.Certificate_Password": "fllfBgEIBQcO",
+    "cloud.Languages.default_script_pref": 1,
+    "cloud.Start Page.ShowTour": false,
+    "version": "1.1"
+}

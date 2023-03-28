@@ -1,0 +1,33 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "obj_check_ma",
+      "path": "objects/obj_check_ma/obj_check_ma.yy"
+    },
+    {
+      "name": "spr_checkma",
+      "path": "sprites/spr_checkma/spr_checkma.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

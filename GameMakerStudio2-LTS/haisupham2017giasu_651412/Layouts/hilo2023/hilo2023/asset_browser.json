@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "scr_contructor_mob",
+      "path": "scripts/scr_contructor_mob/scr_contructor_mob.yy"
+    },
+    {
+      "name": "scr_constructor_mo",
+      "path": "scripts/scr_constructor_mo/scr_constructor_mo.yy"
+    },
+    {
+      "name": "obj_phai",
+      "path": "objects/obj_phai/obj_phai.yy"
+    },
+    {
+      "name": "obj_ne",
+      "path": "objects/obj_ne/obj_ne.yy"
+    },
+    {
+      "name": "obj_trai",
+      "path": "objects/obj_trai/obj_trai.yy"
+    },
+    {
+      "name": "obj_k1",
+      "path": "objects/obj_k1/obj_k1.yy"
+    },
+    {
+      "name": "obj_hieuung",
+      "path": "objects/obj_hieuung/obj_hieuung.yy"
+    },
+    {
+      "name": "obj_control",
+      "path": "objects/obj_control/obj_control.yy"
+    },
+    {
+      "name": "obj_loa",
+      "path": "objects/obj_loa/obj_loa.yy"
+    },
+    {
+      "name": "r_choi",
+      "path": "rooms/r_choi/r_choi.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

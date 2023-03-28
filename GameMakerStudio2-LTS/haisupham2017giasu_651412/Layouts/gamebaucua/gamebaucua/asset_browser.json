@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "obj_netrai",
+      "path": "objects/obj_netrai/obj_netrai.yy"
+    },
+    {
+      "name": "obj_nephai",
+      "path": "objects/obj_nephai/obj_nephai.yy"
+    },
+    {
+      "name": "obj_negiua",
+      "path": "objects/obj_negiua/obj_negiua.yy"
+    },
+    {
+      "name": "spr_phai",
+      "path": "sprites/spr_phai/spr_phai.yy"
+    },
+    {
+      "name": "obj_bien_control",
+      "path": "objects/obj_bien_control/obj_bien_control.yy"
+    },
+    {
+      "name": "Object1",
+      "path": "objects/Object1/Object1.yy"
+    },
+    {
+      "name": "obj_caireng",
+      "path": "objects/obj_caireng/obj_caireng.yy"
+    },
+    {
+      "name": "huongdancode",
+      "path": "notes/huongdancode/huongdancode.yy"
+    },
+    {
+      "name": "device",
+      "path": "notes/device/device.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}

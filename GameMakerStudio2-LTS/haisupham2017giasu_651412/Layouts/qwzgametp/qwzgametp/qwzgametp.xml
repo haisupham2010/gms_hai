@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ActiveConfig="Default" Platform="Windows" Runtime="VM" Device="Default">
+	<Desktop x="0" y="29" width="1920" height="1051" id="19" title="qwzgametp - GameMaker-LTS" windowState="Maximized">
+		<Workspaces>
+			<Workspace active="True" chain="True" title="Workspace 1" localise_title="Workspace_TabTitle" localise_arguments="[&#xD;&#xA;    &quot;1&quot;&#xD;&#xA;]" workspace_offset="[326, 5929]" workspace_scale="1">
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="Objzz_phanloai_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="1795.2001dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="452dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\Objzz_phanloai_qwz\Create_0.gml" resource="Objzz_phanloai_qwz" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="488.80002dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrzz_netongquat_qwz\scrzz_netongquat_qwz.gml" resource="scrzz_netongquat_qwz" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="340.80002dpi_px" top="2307.2dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="demozz_connect_sever_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="1283.2001dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="2" isActive="False" w="900dpi_px" h="452dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\demozz_connect_sever_qwz\Step_0.gml" resource="demozz_connect_sever_qwz" subResource="3_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\demozz_connect_sever_qwz\Create_0.gml" resource="demozz_connect_sever_qwz" subResource="0_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\demozz_connect_sever_qwz\Other_68.gml" resource="demozz_connect_sever_qwz" subResource="7_68" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objzz_giua_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="112dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="599.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objzz_giua_qwz\Mouse_4.gml" resource="objzz_giua_qwz" subResource="6_4" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\objzz_giua_qwz\Create_0.gml" resource="objzz_giua_qwz" subResource="0_0" overridden_title="False" view_readonly="False" />
+							<Script column="0" file="${project_dir}\objects\objzz_giua_qwz\Alarm_0.gml" resource="objzz_giua_qwz" subResource="2_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objzz_taorabandau_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="771.2dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="452dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objzz_taorabandau_qwz\Create_0.gml" resource="objzz_taorabandau_qwz" subResource="0_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="DocumentWindow_RestoreLayout" WorkspaceOwner="true">
+					<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="488.80002dpi_px">
+						<Script column="0" file="${project_dir}\scripts\scrzz_caioff_qwz\scrzz_caioff_qwz.gml" resource="scrzz_caioff_qwz" overridden_title="False" view_readonly="False" />
+						<WorkspaceChain left="340.80002dpi_px" top="2852dpi_px" />
+					</DocumentWindow>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objzz_trai_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="3396.8dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="487.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objzz_trai_qwz\Mouse_4.gml" resource="objzz_trai_qwz" subResource="6_4" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+				<Module Command="open_object_editor">
+					<ObjectEditor objectName="objzz_SN_qwz" eventsOpen="true" parentOpen="false" physicsOpen="false" physicsEditorOpen="false" propertiesOpen="false" activeWindow="editor">
+						<WorkspaceChain left="340.80002dpi_px" top="3944dpi_px" />
+						<DocumentWindow columns="1" fullscreen="False" activeTab="0" isActive="False" w="900dpi_px" h="487.2dpi_px" linkIndex="-1">
+							<Script column="0" file="${project_dir}\objects\objzz_SN_qwz\Draw_0.gml" resource="objzz_SN_qwz" subResource="8_0" overridden_title="False" view_readonly="False" />
+						</DocumentWindow>
+					</ObjectEditor>
+				</Module>
+			</Workspace>
+		</Workspaces>
+		<Dock state="Expanded" type="eLeft" restore_size="177.47899dpi_px" active_tab="0">
+			<DockTab localise_title="Inspector_WindowTitle" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="802624a5-1f62-482f-91da-098605c0ee69">
+				<Module Command="open_inspector">
+					<Inspector resName="objzz_giua_qwz">
+						<Window left="0px" right="" top="0px" bottom="" width="340dpi_px" height="600dpi_px" flags="Default" title="Inspector" localise_title="Inspector_WindowTitle" />
+					</Inspector>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eRight" restore_size="304.99997dpi_px" active_tab="0">
+			<DockTab localise_title="ResourceTree_Title" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="f61d551a-e78f-4fd5-88c2-fff036ff464f">
+				<Module Command="open_asset_browser">
+					<AssetBrowser sort="AtoZ" foldersFirst="True" zoom="100">
+						<Window left="" right="" top="" bottom="" width="370dpi_px" height="463dpi_px" flags="Default" title="Asset Browser" localise_title="AssetBrowser_Title" />
+					</AssetBrowser>
+				</Module>
+			</DockTab>
+		</Dock>
+		<Dock state="Expanded" type="eBottom" restore_size="269.39465dpi_px" active_tab="0">
+			<DockTab localise_title="OutputPanel_Output" cell_sizes="[1000]" layout_id="dock_tab_1" layout_guid="0e268ce0-3578-4335-bcf6-7f11adcfe338">
+				<Module Command="open_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Output" localise_title="OutputPanel_Title" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SearchResults" cell_sizes="[1000]" layout_id="dock_tab_2" layout_guid="80a1a190-0abb-4a7e-b513-dcd24bbe11ee">
+				<Module Command="open_search_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Search Results" localise_title="OutputPanel_SearchResults" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="OutputPanel_SourceControl" cell_sizes="[1000]" layout_id="dock_tab_3" layout_guid="b1e33a57-7b5c-4013-a7ec-42a0522a834d">
+				<Module Command="open_sc_output_panel">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Source Control" localise_title="OutputPanel_SourceControl" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="Breakpoints" cell_sizes="[1000]" layout_id="dock_tab_4" layout_guid="1bc21a96-c1e4-4c1b-a54f-544b76e490df">
+				<Module Command="open_breakpoint_mgr">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Breakpoints" localise_title="Breakpoints" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="CompileErrors" cell_sizes="[1000]" layout_id="dock_tab_5" layout_guid="4b078390-01d6-4215-8258-29e282bbe90d">
+				<Module Command="show_compile_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Compile Errors" localise_title="CompileErrors" />
+				</Module>
+			</DockTab>
+			<DockTab localise_title="SyntaxErrors" cell_sizes="[1000]" layout_id="dock_tab_6" layout_guid="fcd43e1b-ddd5-44d1-906e-5cc21d711774">
+				<Module Command="show_syntax_errors">
+					<Window left="0px" right="" top="0px" bottom="" width="900px" height="240px" flags="Default" title="Syntax Errors" localise_title="SyntaxErrors" />
+				</Module>
+			</DockTab>
+		</Dock>
+	</Desktop>
+</Project>

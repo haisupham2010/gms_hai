@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "Favourites": [],
+  "RecentItems": [
+    {
+      "name": "scr_send_json",
+      "path": "scripts/scr_send_json/scr_send_json.yy"
+    },
+    {
+      "name": "obj_bien_xoa",
+      "path": "objects/obj_bien_xoa/obj_bien_xoa.yy"
+    },
+    {
+      "name": "obj_bientaomot",
+      "path": "objects/obj_bientaomot/obj_bientaomot.yy"
+    },
+    {
+      "name": "obj_choi",
+      "path": "objects/obj_choi/obj_choi.yy"
+    },
+    {
+      "name": "r_choi",
+      "path": "rooms/r_choi/r_choi.yy"
+    },
+    {
+      "name": "obj_phaohoa",
+      "path": "objects/obj_phaohoa/obj_phaohoa.yy"
+    },
+    {
+      "name": "obj_cairieng",
+      "path": "objects/obj_cairieng/obj_cairieng.yy"
+    },
+    {
+      "name": "obj_trai",
+      "path": "objects/obj_trai/obj_trai.yy"
+    },
+    {
+      "name": "obj_phai",
+      "path": "objects/obj_phai/obj_phai.yy"
+    },
+    {
+      "name": "obj_giua",
+      "path": "objects/obj_giua/obj_giua.yy"
+    }
+  ],
+  "Filters": [],
+  "AssetColours": [],
+  "Palette": [
+    "#FF4040FF",
+    "#FFFF80FF",
+    "#FFFF8080",
+    "#FFFF8000",
+    "#FFFFFF80",
+    "#FF80FF00",
+    "#FF80C0FF",
+    "#FF0000FF",
+    "#FF00FFFF",
+    "#FF00FF00",
+    "#FFFFFF00",
+    "#FFFF0000",
+    "#FFFF00FF",
+    "#FF4040FF",
+    "#FFFF80FF"
+  ]
+}
